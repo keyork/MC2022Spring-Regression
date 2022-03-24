@@ -9,6 +9,10 @@ Homework 2 of MC2022Spring(Media and Cognition 2022 Spring)
 - Dataset:
 
   ![img_data](resources/img_data.png)
+  
+- Regression: $y_i=w_0+w_1x_1+\cdots+w_mx_i^m$
+
+- Change one value (8,High,17->1), then do regression again
 
 ## Requirements
 
